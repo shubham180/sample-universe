@@ -62,6 +62,33 @@ const planets = [
         color: '#DAA520',
         orbitColor: '#444',
         info: 'The largest planet. Jupiter is a gas giant with a Great Red Spot and at least 79 moons.'
+    },
+    {
+        name: 'Saturn',
+        distance: 290,
+        size: 16,
+        speed: 0.0009,
+        color: '#F4A460',
+        orbitColor: '#444',
+        info: 'Famous for its spectacular ring system. Saturn is a gas giant and the second-largest planet in our solar system.'
+    },
+    {
+        name: 'Uranus',
+        distance: 340,
+        size: 10,
+        speed: 0.0004,
+        color: '#4FD0E7',
+        orbitColor: '#444',
+        info: 'An ice giant that rotates on its side. Uranus has a faint ring system and a blue-green color from methane.'
+    },
+    {
+        name: 'Neptune',
+        distance: 390,
+        size: 10,
+        speed: 0.0001,
+        color: '#4166F5',
+        orbitColor: '#444',
+        info: 'The windiest planet. Neptune is a deep blue ice giant located at the edge of our solar system.'
     }
 ];
 
