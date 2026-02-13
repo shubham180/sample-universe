@@ -25,7 +25,7 @@ const planets = [
         speed: 0.04,
         color: '#C0A080',
         orbitColor: '#444',
-        info: 'The smallest planet and closest to the Sun. Mercury is a rocky world with extreme temperatures.'
+        info: 'The smallest planet and closest to the Sun. Mercury has extreme temperatures ranging from 430°C during the day to -180°C at night. It has a thin atmosphere and is named after the Roman messenger god. One day on Mercury equals 59 Earth days!'
     },
     {
         name: 'Venus',
@@ -34,7 +34,7 @@ const planets = [
         speed: 0.015,
         color: '#D4A574',
         orbitColor: '#444',
-        info: 'The hottest planet in our solar system. Venus has a thick atmosphere of carbon dioxide.'
+        info: 'The hottest planet with surface temperatures reaching 464°C. Venus has a thick toxic atmosphere of carbon dioxide with sulfuric acid clouds. It is the only planet that rotates backwards. Venus is named after the Roman goddess of love and beauty, and is the brightest planet visible from Earth.'
     },
     {
         name: 'Earth',
@@ -43,7 +43,7 @@ const planets = [
         speed: 0.01,
         color: '#87CEEB',
         orbitColor: '#444',
-        info: 'Our home planet. Earth is the only known planet with life and liquid water on its surface.'
+        info: 'Our home planet! Earth is the only known planet with life and vast amounts of liquid water. It has a protective magnetic field and a diverse atmosphere containing oxygen. Earth is about 4.5 billion years old and hosts over 8.7 million species of life. Our planet orbits the Sun every 365.25 days.'
     },
     {
         name: 'Mars',
@@ -52,7 +52,7 @@ const planets = [
         speed: 0.008,
         color: '#D2B48C',
         orbitColor: '#444',
-        info: 'The red planet. Mars is a cold, desert world with the largest volcano in the solar system.'
+        info: 'The red planet! Mars has a thin atmosphere and surface temperatures averaging -65°C. It features Olympus Mons, the largest volcano in the solar system, and a giant canyon system called Valles Marineris. Evidence suggests Mars once had liquid water. It is named after the Roman god of war and is a primary target for human exploration.'
     },
     {
         name: 'Jupiter',
@@ -61,7 +61,7 @@ const planets = [
         speed: 0.002,
         color: '#DAA520',
         orbitColor: '#444',
-        info: 'The largest planet. Jupiter is a gas giant with a Great Red Spot and at least 79 moons.'
+        info: 'The largest planet in our solar system! Jupiter is a massive gas giant with a mass greater than all other planets combined. It features the Great Red Spot, a storm larger than Earth that has raged for at least 400 years. Jupiter has 95 known moons, including the large Galilean moons. It has a faint ring system and a powerful magnetic field.'
     },
     {
         name: 'Saturn',
@@ -70,7 +70,7 @@ const planets = [
         speed: 0.0009,
         color: '#F4A460',
         orbitColor: '#444',
-        info: 'Famous for its spectacular ring system. Saturn is a gas giant and the second-largest planet in our solar system.'
+        info: 'Famous for its spectacular ring system made of ice and rock! Saturn is a gas giant and the second-largest planet. Its rings are composed of billions of particles ranging from tiny specks to house-sized chunks. Saturn has 146 known moons, including the large moon Titan which has a thick atmosphere and liquid methane oceans. Saturn is the lightest planet relative to its size.'
     },
     {
         name: 'Uranus',
@@ -79,7 +79,7 @@ const planets = [
         speed: 0.0004,
         color: '#4FD0E7',
         orbitColor: '#444',
-        info: 'An ice giant that rotates on its side. Uranus has a faint ring system and a blue-green color from methane.'
+        info: 'An ice giant with a unique extreme rotation! Uranus rotates on its side with an axis tilt of 98 degrees, likely due to a collision in the distant past. Its blue-green color comes from methane in its atmosphere. Uranus has a faint ring system and 28 known moons. Surface temperatures drop to -224°C. It takes 84 Earth years to orbit the Sun!'
     },
     {
         name: 'Neptune',
@@ -88,7 +88,7 @@ const planets = [
         speed: 0.0001,
         color: '#4166F5',
         orbitColor: '#444',
-        info: 'The windiest planet. Neptune is a deep blue ice giant located at the edge of our solar system.'
+        info: 'The windiest planet with wind speeds exceeding 2,100 km/h! Neptune is a deep blue ice giant at the edge of our solar system. Its color comes from methane absorption of red light. Neptune was discovered in 1846 through mathematical predictions before being observed. It has 16 known moons and a faint ring system. A year on Neptune equals 165 Earth years!'
     }
 ];
 
